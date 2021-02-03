@@ -1,6 +1,6 @@
-### Hi there, I'm Sune - aka Nanna👋
+### Hi there, I'm Fabian - aka Fabba👋
 
-## I'm a Data Analyst and Developer!!
+## I'm a Mobile Network Specialist and Developer!!
 
 - 🌱 I’m currently learning Javascript MERN stack🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -11,7 +11,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@MissSaCarter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sune) [![Mail Badge](https://img.shields.io/badge/-SuneCarelse-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/Sune.Carelse) [![Linkedin Badge](https://img.shields.io/badge/-Sune-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sune-Carelse/) [![Mail Badge](https://img.shields.io/badge/-@misscfc1905-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/@misscfc1905) [![Mail Badge](https://img.shields.io/badge/-sacarelse-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sacarelse@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Mfabbak1892-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sune) [![Mail Badge](https://img.shields.io/badge/-FabianVanWyk-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/Sune.Carelse) [![Linkedin Badge](https://img.shields.io/badge/-Fabian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sune-Carelse/) [![Mail Badge](https://img.shields.io/badge/-@mfabba1892-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/@misscfc1905) [![Mail Badge](https://img.shields.io/badge/-fabian.vanwyk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sacarelse@gmail.com)
 <br />
 
 ### Languages and Tools:
@@ -35,11 +35,11 @@
 <br />
 
 #### Bidness
-:email: sacarelse@gmail.com
+:email: fabian.vanwyk@gmail.com
 
 
 #### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sune25carelse.sune25carelse)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fabba1892.fabba1892)
 
 
 #### Coding Stats
@@ -55,4 +55,4 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 #### Github Stats
-![Sune's github stats](https://github-readme-stats.vercel.app/api?username=sune25carelse&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Sune's github stats](https://github-readme-stats.vercel.app/api?username=fabba1892&count_private=true&theme=tokyonight&hide=contribs,prs)
