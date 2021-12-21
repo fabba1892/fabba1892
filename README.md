@@ -45,13 +45,13 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
+
 JavaScript   9 hrs 31 mins   ███████████████████▓░░░░░   78.27 % 
 CSS          1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 JSON         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 Git Config   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
