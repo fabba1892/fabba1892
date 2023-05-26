@@ -1,6 +1,6 @@
 ### Hi there, I'm Fabian - aka Fabba👋
 
-## I'm a Mobile Network Specialist and Developer!!
+## I'm a Radio Network Specialist and Developer!!
 
 - 🌱 I’m currently learning Javascript MERN stack🤣
 - 👯 I’m looking to collaborate with other content creators
