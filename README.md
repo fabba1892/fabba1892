@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Javascript MERN stack🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Love to game and learn
 
 ### Connect with me:
