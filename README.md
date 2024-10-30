@@ -4,12 +4,12 @@
 
 - 🌱 I’m currently learning Javascript MERN stack🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Love to game and learn
 
 ### Connect with me:
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@fabbaks-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/@fabbaks) [![Mail Badge](https://img.shields.io/badge/-FabianVanWyk-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/FabianVanWyk) [![Linkedin Badge](https://img.shields.io/badge/-FabianVanWyk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FabianVanWyk/) [![Mail Badge](https://img.shields.io/badge/-@fabba1892-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/@fabba1892) [![Mail Badge](https://img.shields.io/badge/-fabian.vanwyk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fabian.vanwyk@gmail.com)
 <br />
