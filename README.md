@@ -2,7 +2,7 @@
 
 ## I'm a Radio Network Specialist and Developer!!
 
-- 🌱 I’m currently learning Javascript MERN stack🤣
+- 🌱 I’m currently learning Javascript LAMP and MERN stack🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Love to game and learn
